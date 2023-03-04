@@ -1,0 +1,250 @@
+{
+    "urlimg": "image/yo.jpg",
+    "name": "Juan Alejandro Mayhua Rojas",
+    "subtitle": "Web Developer",
+    "data": [
+        {
+            "id": 0,
+            "label": "Edad",
+            "input": "26",
+            "url": ""
+        },
+        {
+            "id": 1,
+            "label": "Teléfono",
+            "input": "+543854135460",
+            "url": ""
+        },
+        {
+            "id": 2,
+            "label": "Domicilio",
+            "input": "Barrio Sur - Tucumán - Argentina",
+            "url": ""
+        },
+        {
+            "id": 3,
+            "label": "Mail",
+            "input": "ale.mayhua.rojas@gmail.com",
+            "url": ""
+        },
+        {
+            "id": 4,
+            "label": "Linkedin",
+            "input": "/in/alemayhua/",
+            "url": "https://www.linkedin.com/in/alemayhua"
+        },
+        {
+            "id": 6,
+            "label": "Github",
+            "input": "/alemayhua",
+            "url": "https://github.com/alemayhua"
+        }
+    ],
+    "informationtitles": [
+        "HABILIDADES TÉCNICAS",
+        "PERFIL",
+        "EDUCACIÓN",
+        "EXPERIENCIA",
+        "OTROS DATOS"
+    ],
+    "abilities": [
+        {
+            "id": 0,
+            "name": "HTML5",
+            "list": []
+        },
+        {
+            "id": 1,
+            "name": "CSS",
+            "list": [
+                {
+                    "subname": "CSS3",
+                    "sublist": []
+                },
+                {
+                    "subname": "Bootstrap",
+                    "sublist": []
+                },
+                {
+                    "subname": "Tailwind",
+                    "sublist": []
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Lenguajes de programación",
+            "list": [
+                {
+                    "subname": "JavaScript",
+                    "sublist": [
+                        "ES6",
+                        "jQuery",
+                        "ReactJs"
+                    ]
+                },
+                {
+                    "subname": "PHP",
+                    "sublist": []
+                },
+                {
+                    "subname": "Java",
+                    "sublist": []
+                },
+                {
+                    "subname": "C",
+                    "sublist": []
+                },
+                {
+                    "subname": "C++",
+                    "sublist": []
+                },
+                {
+                    "subname": "C#",
+                    "sublist": []
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "SQL",
+            "list": [
+                {
+                    "subname": "MySQL",
+                    "sublist": []
+                },
+                {
+                    "subname": "SQL Server",
+                    "sublist": []
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "NoSQL",
+            "list": [
+                {
+                    "subname": "Firebase",
+                    "sublist": []
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "WordPress",
+            "list": []
+        },
+        {
+            "id": 6,
+            "name": "Manejo de SO",
+            "list": [
+                {
+                    "subname": "Windows",
+                    "sublist": []
+                },
+                {
+                    "subname": "macOS",
+                    "sublist": []
+                },
+                {
+                    "subname": "Linux",
+                    "sublist": []
+                }
+            ]
+        },
+        {
+            "id": 7,
+            "name": "Manejo del Office",
+            "list": []
+        }
+    ],
+    "language": [
+        {
+            "id": 0,
+            "name": "Inglés",
+            "level": "B1"
+        },
+        {
+            "id": 1,
+            "name": "Español",
+            "level": "Nativo"
+        }
+    ],
+    "profile": "En la actualidad estoy realizando cursos de programación en freecodecamp, Linkedin Learning, Argentina Programa, Sololearn, curso la beca de programadores en Fundación León Tucumán y también soy estudiante de Ing. en Sistemas de Información en la UTN FRT. Fortaleciéndome en el software de programación cada vez más; además de realizar trabajos de reparación de pc y programación de forma independiente. <br>Soy una persona proactiva, en constante capacitación que busca iniciarse en el sector IT, dispuesto a enfrentar nuevos desafíos. Mi deseo es pertenecer a una empresa y a un equipo que me acompañe en mi progreso personal, académico y laboral, al cual pueda aportar toda mi dedicación, así como mis conocimientos y habilidades.",
+    "education": [
+        {
+            "id": "0",
+            "name": "Ingeniería en Sistemas de Información",
+            "location": "Universidad Tecnológica Nacional - Facultad Regional Tucumán",
+            "status": "Cursando 4to año"
+        },
+        {
+            "id": "1",
+            "name": "Beca Futuros Programadores",
+            "location": "Fundación León Tucumán",
+            "status": "Cursando"
+        },
+        {
+            "id": "2",
+            "name": "ReactJS",
+            "location": "Coderhouse",
+            "status": "Finalizado - 2022"
+        },
+        {
+            "id": "3",
+            "name": "Reparador de PC",
+            "location": "INI Computación - Tucumán",
+            "status": "Finalizado - 2014"
+        },
+        {
+            "id": "4",
+            "name": "Polimodal: Economía y Gestión de las Organizaciones",
+            "location": "Colegio Big Ben School - Santiago del Estero",
+            "status": "Finalizado - 2013"
+        }
+    ],
+    "experience": [
+        {
+            "id": 0,
+            "job": "Programador",
+            "company": "Freelance",
+            "date": "2020"
+        },
+        {
+            "id": 1,
+            "job": "Reparación y mantenimiento PC",
+            "company": "Particular",
+            "date": "2015"
+        },
+        {
+            "id": 2,
+            "job": "Chofer",
+            "company": "Uber",
+            "date": "2021 - 2022"
+        }
+    ],
+    "othersdatas": [
+        {
+            "id": 0,
+            "label": "Movilidad",
+            "input": "auto propio"
+        }
+    ],
+    "icons": [
+        {
+            "id": 0,
+            "icon": "instagram",
+            "url": "https://www.instagram.com/ale_mayhua/"
+        },
+        {
+            "id": 1,
+            "icon": "github",
+            "url": "https://github.com/alemayhua"
+        },
+        {
+            "id": 2,
+            "icon": "linkedin",
+            "url": "https://www.linkedin.com/in/alemayhua"
+        }
+    ]
+}
