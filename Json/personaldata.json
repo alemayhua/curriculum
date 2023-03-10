@@ -5,36 +5,30 @@
     "data": [
         {
             "id": 0,
-            "label": "Edad",
-            "input": "26",
-            "url": ""
-        },
-        {
-            "id": 1,
             "label": "Teléfono",
             "input": "+543854135460",
             "url": ""
         },
         {
-            "id": 2,
+            "id": 1,
             "label": "Domicilio",
             "input": "Barrio Sur - Tucumán - Argentina",
             "url": ""
         },
         {
-            "id": 3,
+            "id": 2,
             "label": "Mail",
             "input": "ale.mayhua.rojas@gmail.com",
             "url": ""
         },
         {
-            "id": 4,
+            "id": 3,
             "label": "Linkedin",
             "input": "/in/alemayhua/",
             "url": "https://www.linkedin.com/in/alemayhua"
         },
         {
-            "id": 6,
+            "id": 4,
             "label": "Github",
             "input": "/alemayhua",
             "url": "https://github.com/alemayhua"
